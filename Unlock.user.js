@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Unlock
 // @namespace    https://github.com/yunmang/TM-Scripts
+// @downloadURL  https://github.com/yunmang/TM-Scripts/raw/master/Unlock.user.js
 // @version      0.1
 // @description  Unlock user-select
 // @author       yunmang
