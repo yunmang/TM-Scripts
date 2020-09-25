@@ -15,7 +15,7 @@ window.addEventListener('load', function () {
 
     // Loop through them
     Array.prototype.forEach.call(elms, function(elm) {
-        if (elm.style.userSelect = "none")
+        if (elm.style.userSelect == "none")
         {
             elm.style.userSelect = "auto";
         }
